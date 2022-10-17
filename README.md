@@ -1,13 +1,14 @@
-<h1 align="center">Hi 👋, I'm CHANDRU  as Crazy2kcodre</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
 
+<h1 align="center">Hi 👋, I'm CHANDRU  as Crazy2kcoder</h1>
+<h3 align="center">A passionate fullstack developer from India</h3>
+<img align="right" alt="coding" with="400" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumyla&label=Profile%20views&color=0e75b6&style=flat" alt="sumyla" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on *Plasma donor application*
 
-- 💬 Ask me about *Python, JAVA ,cloud*
+- 💬 Ask me about *Python, Java , DSA & OOPS *
 
 - 📫 How to reach me *chandrumurugasan@gmail.com*
 
